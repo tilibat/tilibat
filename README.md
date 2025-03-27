@@ -25,10 +25,6 @@ I'm Alex, a passionate Python developer with a focus on data science and machine
 *   **Python Programming** - I'm happy to chat about Python best practices, data structures, algorithms, and more.
 *   **Machine Learning** - Feel free to ask me anything related to machine learning, including model selection, training, evaluation, and deployment.
 
-### 📫 How to reach me:
-
-*   alex.developer@example.com
-*   [https://www.linkedin.com/in/alex-developer](https://www.linkedin.com/in/alex-developer)
 
 ### 😄 Pronouns:
 
